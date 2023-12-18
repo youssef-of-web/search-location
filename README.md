@@ -1,5 +1,7 @@
 # Search Location
 
+<img src="./public/cp.png">
+
 ### installation
 
 The project based on Vite, Typescript, AntDesign and tanstack reack query
